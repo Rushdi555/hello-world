@@ -1,2 +1,4 @@
 # hello-world
-first repositort
+first repository
+
+a hobbyist learning new things and enjoying life
